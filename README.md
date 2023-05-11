@@ -1,6 +1,6 @@
 ### Hello! I am Nathan Lima and I'm a Java self-taught developer! 👋
 
-My biggest passion is to develop things like music, softwares, websites and games! I'm a learner moved by curiosity and in pursuit of my goal to work as a developer, since it's the area that I want to work with. I'm currently studying Java focused more on back-end, but I'm not rooted to learn a single language. I love challenges and meet new people, so feel free to contact me on my <a href="https://www.linkedin.com/in/nslima/"> LinkedIn</a> and have a chat with me!
+My biggest passion is to develop things like music, softwares, websites and games! I'm a learner moved by curiosity and in pursuit of my goal to work as a developer, since it's the area that I want to work with. I'm currently studying Java focused more on back-end, but I'm not rooted to learn only one single language. I love challenges and meet new people, so feel free to contact me on my <a href="https://www.linkedin.com/in/nslima/"> LinkedIn</a> and have a chat with me!
 
 Technologies/Tools that I have knowledge:
 <div>
