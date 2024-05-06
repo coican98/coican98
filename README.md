@@ -1,9 +1,9 @@
 ###### English / Portuguese
-### Hello! I am Nathan Lima and I'm a self-taught Java developer! 👋
+### Hello! I am Nathan Lima and I'm a self-taught developer! 👋
 
 My biggest passion is to develop things like music, softwares, websites and games! I'm a learner moved by curiosity and in pursuit of my goal to work as a developer, since it's the area that I want to work with. I'm currently studying Java focused more on back-end, but I'm not rooted to learn only one single language or framework. I love challenges and meet new people, so feel free to contact me on my <a href="https://www.linkedin.com/in/nslima/"> LinkedIn</a> and have a chat with me!
 
-### Olá! Eu sou Nathan Lima e sou um desenvolvedor Java autodidata! 👋   
+### Olá! Eu sou Nathan Lima e sou um desenvolvedor autodidata! 👋   
 
 Minha maior paixão é criar e desenvolver coisas como música, programas, sites e jogos! Eu sou um aprendiz movido pela curiosidade e em busca da minha meta de trabalhar como desenvolvedor, que é a área que eu quero trabalhar. Eu estou atualmente estudando Java com foco em back-end, mas não estou preso apenas em aprender uma linguagem ou framework. Eu amo desafios e conhecer novas pessoas, então sinta-se livre em entrar em contato comigo no meu <a href="https://www.linkedin.com/in/nslima/"> LinkedIn</a> e ter uma conversa comigo!
 
