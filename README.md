@@ -8,9 +8,12 @@ My biggest passion is to develop things like music, softwares, websites and game
 Minha maior paixão é criar e desenvolver coisas como música, programas, sites e jogos! Eu sou um aprendiz movido pela curiosidade e em busca da minha meta de trabalhar como desenvolvedor, que é a área que eu quero trabalhar. Eu estou atualmente estudando Java com foco em back-end, mas não estou preso apenas em aprender uma linguagem ou framework. Eu amo desafios e conhecer novas pessoas, então sinta-se livre em entrar em contato comigo no meu <a href="https://www.linkedin.com/in/nslima/"> LinkedIn</a> e ter uma conversa comigo!
 
 
-Technologies/Tools that I have knowledge:   
+_Technologies/Tools that I have knowledge:_
+
 Tecnologias/Ferramentas que possuo conhecimento:
 <div>
+<img src="https://www.svgrepo.com/show/452088/php.svg" width="40" height="40"/>
+<img src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
