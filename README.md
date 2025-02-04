@@ -1,17 +1,19 @@
 ###### English / Portuguese
-### Hello! I am Nathan Lima and I'm a self-taught developer! 👋
+### Hello! I am Nathan Lima and I'm a self-taught data engineer! 👋
 
-My biggest passion is to develop things like music, softwares, websites and games! I'm a learner moved by curiosity and in pursuit of my goal to work as a developer, since it's the area that I want to work with. I'm currently studying Java focused more on back-end, but I'm not rooted to learn only one single language or framework. I love challenges and meet new people, so feel free to contact me on my <a href="https://www.linkedin.com/in/nslima/"> LinkedIn</a> and have a chat with me!
+I'm a learner moved by curiosity and in pursuit of my goal to work as a data engineer, since it's the area that I want to work with. I'm currently studying Python with Spark, focusing on data treatment and filtering. I love challenges and meet new people, so feel free to contact me on my <a href="https://www.linkedin.com/in/nslima/"> LinkedIn</a> and have a chat with me!
 
-### Olá! Eu sou Nathan Lima e sou um desenvolvedor autodidata! 👋   
+### Olá! Eu sou Nathan Lima e sou um engenheiro de dados autodidata! 👋   
 
-Minha maior paixão é criar e desenvolver coisas como música, programas, sites e jogos! Eu sou um aprendiz movido pela curiosidade e em busca da minha meta de trabalhar como desenvolvedor, que é a área que eu quero trabalhar. Eu estou atualmente estudando Java com foco em back-end, mas não estou preso apenas em aprender uma linguagem ou framework. Eu amo desafios e conhecer novas pessoas, então sinta-se livre em entrar em contato comigo no meu <a href="https://www.linkedin.com/in/nslima/"> LinkedIn</a> e ter uma conversa comigo!
+Eu sou um aprendiz movido pela curiosidade e em busca da minha meta de trabalhar como engenheiro de dados, que é a área que eu estou em transição para atuar. Eu estou atualmente estudando Python com Spark, focado no tratamento e filtragem de dados. Eu amo desafios e conhecer novas pessoas, então sinta-se livre em entrar em contato comigo no meu <a href="https://www.linkedin.com/in/nslima/"> LinkedIn</a> e ter uma conversa comigo!
 
 
 _Technologies/Tools that I have knowledge:_
 
 Tecnologias/Ferramentas que possuo conhecimento:
 <div>
+<img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/python@0.0.0/python_256x256.png" width="40" height="40" />
+<img src="https://cdn.svgporn.com/logos/apache-spark.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
 <img src="https://www.svgrepo.com/show/452088/php.svg" width="40" height="40"/>
