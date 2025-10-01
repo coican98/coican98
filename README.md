@@ -1,11 +1,11 @@
 ###### English / Portuguese
-### Hello! I am Nathan Lima and I'm a self-taught data engineer! 👋
+### Hello! I am Nathan Lima and I'm a self-taught developer! 👋
 
-I'm a learner moved by curiosity and in pursuit of my goal to work as a data engineer, since it's the area that I want to work with. I'm currently studying Python with Spark, focusing on data treatment and filtering. I love challenges and meet new people, so feel free to contact me on my <a href="https://www.linkedin.com/in/nslima/"> LinkedIn</a> and have a chat with me!
+I'm a learner moved by curiosity and in pursuit of my goal to work as a developer, since it's the area that I started working recently. I'm currently working and studying PHP with Laravel, focusing on automation and API integrations. I love challenges and meet new people, so feel free to contact me on my <a href="https://www.linkedin.com/in/nslima/"> LinkedIn</a> and have a chat with me!
 
-### Olá! Eu sou Nathan Lima e sou um engenheiro de dados autodidata! 👋   
+### Olá! Eu sou Nathan Lima e sou um desenvolvedor autodidata! 👋   
 
-Eu sou um aprendiz movido pela curiosidade e em busca da minha meta de trabalhar como engenheiro de dados, que é a área que eu estou em transição para atuar. Eu estou atualmente estudando Python com Spark, focado no tratamento e filtragem de dados. Eu amo desafios e conhecer novas pessoas, então sinta-se livre em entrar em contato comigo no meu <a href="https://www.linkedin.com/in/nslima/"> LinkedIn</a> e ter uma conversa comigo!
+Eu sou um aprendiz movido pela curiosidade e em busca da minha meta de trabalhar como desenvolvedor, que é a área que eu iniciei a minha atuação recentemente. Eu estou atualmente estudando PHP com Laravel, focado em automação e integração com APIs. Eu amo desafios e conhecer novas pessoas, então sinta-se livre em entrar em contato comigo no meu <a href="https://www.linkedin.com/in/nslima/"> LinkedIn</a> e ter uma conversa comigo!
 
 
 _Technologies/Tools that I have knowledge:_
