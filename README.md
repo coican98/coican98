@@ -1,9 +1,9 @@
 ###### English / Portuguese
-### Hello! I am Nathan Lima and I'm a fullstack developer! 👋
+### Hello! My name is Nathan Lima and I'm a fullstack developer! 👋
 
 I'm a learner moved by curiosity and now that I achieved the goal of being a developer, I look forward to improving and solving both companies' and people's problems. I'm currently working with PHP and Laravel, focusing on automation, API integrations, dashboards, reports and data management. I love challenges and meet new people, so feel free to contact me on my <a href="https://www.linkedin.com/in/nslima/"> LinkedIn</a> and have a chat with me!
 
-### Olá! Eu sou Nathan Lima e sou um desenvolvedor autodidata! 👋   
+### Olá! Meu nome é Nathan Lima e sou um desenvolvedor fullstack! 👋   
 
 Eu sou um eterno aprendiz movido pela curiosidade e agora que alcancei a meta de me tornar desenvolvedor, eu estou almejando melhorar e resolver problemas tanto de empresas como de pessoas. Eu estou atualmente trabalhando com PHP e Laravel, focado em automação, integração com APIs, painéis de controle, relatórios e gestão de dados. Eu amo desafios e conhecer novas pessoas, então sinta-se livre em entrar em contato comigo no meu <a href="https://www.linkedin.com/in/nslima/"> LinkedIn</a> e ter uma conversa comigo!
 
