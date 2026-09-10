@@ -1,11 +1,11 @@
 ###### English / Portuguese
-### Hello! I am Nathan Lima and I'm a self-taught developer! 👋
+### Hello! I am Nathan Lima and I'm a fullstack developer! 👋
 
-I'm a learner moved by curiosity and in pursuit of my goal to work as a developer, since it's the area that I started working recently. I'm currently working and studying PHP with Laravel, focusing on automation and API integrations. I love challenges and meet new people, so feel free to contact me on my <a href="https://www.linkedin.com/in/nslima/"> LinkedIn</a> and have a chat with me!
+I'm a learner moved by curiosity and now that I achieved the goal of being a developer, I look forward to improving and solving both companies' and people's problems. I'm currently working with PHP and Laravel, focusing on automation, API integrations, dashboards, reports and data management. I love challenges and meet new people, so feel free to contact me on my <a href="https://www.linkedin.com/in/nslima/"> LinkedIn</a> and have a chat with me!
 
 ### Olá! Eu sou Nathan Lima e sou um desenvolvedor autodidata! 👋   
 
-Eu sou um aprendiz movido pela curiosidade e em busca da minha meta de trabalhar como desenvolvedor, que é a área que eu iniciei a minha atuação recentemente. Eu estou atualmente estudando PHP com Laravel, focado em automação e integração com APIs. Eu amo desafios e conhecer novas pessoas, então sinta-se livre em entrar em contato comigo no meu <a href="https://www.linkedin.com/in/nslima/"> LinkedIn</a> e ter uma conversa comigo!
+Eu sou um eterno aprendiz movido pela curiosidade e agora que alcancei a meta de me tornar desenvolvedor, eu estou almejando melhorar e resolver problemas tanto de empresas como de pessoas. Eu estou atualmente trabalhando com PHP e Laravel, focado em automação, integração com APIs, painéis de controle, relatórios e gestão de dados. Eu amo desafios e conhecer novas pessoas, então sinta-se livre em entrar em contato comigo no meu <a href="https://www.linkedin.com/in/nslima/"> LinkedIn</a> e ter uma conversa comigo!
 
 
 _Technologies/Tools that I have knowledge:_
