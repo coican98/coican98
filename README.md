@@ -1,49 +1,50 @@
-###### English / Portuguese
-### Hello! My name is Nathan Lima and I'm a fullstack developer! 👋
+# Hi, I'm Nathan Lima 👋
 
-I'm a learner moved by curiosity and now that I achieved the goal of being a developer, I look forward to improving and solving both companies' and people's problems. I'm currently working with PHP and Laravel, focusing on automation, API integrations, dashboards, reports and data management. I love challenges and meet new people, so feel free to contact me on my <a href="https://www.linkedin.com/in/nslima/"> LinkedIn</a> and have a chat with me!
+### Backend-focused Software Developer | PHP & Laravel | REST APIs | Systems Integration
 
-### Olá! Meu nome é Nathan Lima e sou um desenvolvedor fullstack! 👋   
+I'm a software developer focused on building and maintaining business applications, backend services, system integrations, and process automation.
 
-Eu sou um eterno aprendiz movido pela curiosidade e agora que alcancei a meta de me tornar desenvolvedor, eu estou almejando melhorar e resolver problemas tanto de empresas como de pessoas. Eu estou atualmente trabalhando com PHP e Laravel, focado em automação, integração com APIs, painéis de controle, relatórios e gestão de dados. Eu amo desafios e conhecer novas pessoas, então sinta-se livre em entrar em contato comigo no meu <a href="https://www.linkedin.com/in/nslima/"> LinkedIn</a> e ter uma conversa comigo!
+My professional experience is centered around **PHP and Laravel**, working across different generations of applications — from legacy systems to modern Laravel environments — and integrating them with databases, enterprise platforms, identity services, and external APIs.
 
+I work beyond the application layer when needed, troubleshooting issues involving **code, databases, integrations, infrastructure, and production environments**.
 
-_Technologies/Tools that I have knowledge:_
+### Core Stack
 
-Tecnologias/Ferramentas que possuo conhecimento:
-<div>
-<img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/python@0.0.0/python_256x256.png" width="40" height="40" />
-<img src="https://cdn.svgporn.com/logos/apache-spark.svg" width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-<img src="https://www.svgrepo.com/show/452088/php.svg" width="40" height="40"/>
-<img src="https://static-00.iconduck.com/assets.00/laravel-icon-497x512-uwybstke.png" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original-wordmark.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original-wordmark.svg" width="40" height="40"/>
-</div>
+**Backend**  
+PHP • Laravel • REST APIs • Object-Oriented Programming
 
-### Contact Info / Informações de Contato:
+**Databases**  
+MySQL • Microsoft SQL Server • PostgreSQL
 
-<div>
-  <a href="https://www.linkedin.com/in/nslima/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-  </a>
-  <a href="mailto:limasantosnathan@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-plain.svg"width="40" height="40"/>
-  </a>
+**Integration & Automation**  
+Systems Integration • PowerShell • Active Directory • LDAP
 
-</div>
+**Development & Infrastructure**  
+Git • Docker • Linux • CI/CD • Automated Testing
 
-<div>
-<a href="https://github.com/coican98">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=coican98&count_private=true&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coican98&count_private=true&layout=compact&theme=tokyonight"/>
-</div>
-  
-![Snake animation](https://github.com/coican98/coican98/blob/output/github-contribution-grid-snake.svg)
+### Featured Projects
 
+#### 🛡️ MU Online Web Platform
+A full-stack Laravel application for managing a private MMORPG server.
+
+Built with **Laravel 11, PHP 8.2, SQL Server, and JavaScript**, featuring authentication, account management, rankings, dynamic events, news, administrative tools, store/payment flows, and integration with an existing game database.
+
+#### ⚙️ Laravel Backend Challenge
+REST API built with **Laravel 12, PostgreSQL, Docker, and Nginx**.
+
+Implements company, job, and user management, application workflows, custom CPF/CNPJ validation, filtering, plan-based business rules, structured JSON validation, and containerized development.
+
+#### 🔐 Identity Username Generator
+Java-based username generation and validation prototype inspired by an **Oracle Identity Manager** workflow.
+
+Refactored the original username-generation logic to improve maintainability, support additional naming combinations, and prevent inappropriate usernames through configurable validation rules.
+
+### Currently Exploring
+
+I'm expanding my backend knowledge through **Java and Spring Boot**, while continuing to deepen my experience with software architecture, automated testing, system integration, and application modernization.
+
+### Open to Opportunities
+
+I'm interested in **Backend Developer, PHP/Laravel Developer, and Software Developer** opportunities, especially with remote and international teams.
+
+[LinkedIn](https://www.linkedin.com/in/nslima/)
